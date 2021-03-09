@@ -11,18 +11,18 @@ Peer to Peer(P2P) 방식을 이용한다면 구매자가 늘어날수록 비용�
 
 *임의대로 작성한 개요임. 보완요망.
 
-[과제]
-1. 아주 간단한 정보를 주고받을 수 있는 P2P 네트워크 프로그램 작성
-2. 커리큘럼 상 문제풀이와 피드백을 주고받을 수 있는 P2P 네트워크 프로그램 작성
-
-[자료 조사]
-1. IP 체계
+[외부 자료]
 210308 Internet_Protocol wikipedia.pdf
 210308 Internet Protocol wikipedia 해석.txt(진행중)
 210308 Internet_protocol_suite wikipedia.pdf
 210308 mfc 열혈강의책 1215p부터.txt
+210309 Peer-to-peer wikipedia.pdf
+210309 네트워크_패킷 wikipedia.pdf
 
-[예제]
-1. TCP/IP 소켓 프로그래밍
-210308 local/ChatServerExample
-210308 git/ChatClientExample
+[깃 리포지토리]
+210308 https://github.com/izrujo/ChatClientExample.git
+210309 https://github.com/izrujo/ChatServerExample.git
+
+[그림]
+210309 Fig.1 TCP IP 모델.jpg
+210309 Fig.2 P2P 모델.jpg
